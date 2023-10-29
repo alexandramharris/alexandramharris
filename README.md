@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Alexandra.
+
+📫 How to reach me: harrisalexmarie@gmail.com
 
 <!--
 **alexandramharris/alexandramharris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
