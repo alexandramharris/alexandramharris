@@ -10,6 +10,7 @@ I'm the graphics reporter for the Times Union in Albany, NY.
 ![HTML Logo](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS Logo](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript Logo](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![React Logo](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js Logo](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 
 ![R Logo](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
@@ -27,8 +28,8 @@ I'm the graphics reporter for the Times Union in Albany, NY.
 ![Flourish](https://img.shields.io/badge/-Flourish-1db954?style=flat-square&logo=flourish&logoColor=white)
 
 ![Command Line Logo](https://img.shields.io/badge/-Command_Line-000000?style=flat-square&logo=command-line&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Git Logo](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ![Adobe Logo](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
