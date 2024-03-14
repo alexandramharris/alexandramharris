@@ -23,12 +23,11 @@ Currently, I'm the graphics reporter for the Times Union in Albany, NY.
 ![MapLibre](https://img.shields.io/badge/-MapLibre-1a7afb?style=flat-square&logo=maplibre&logoColor=white)
 ![Leaflet Logo](https://img.shields.io/badge/-Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=command-line&logoColor=white)
+![Git Logo](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Adobe Logo](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
+![Figma Logo](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
 ![D3.js Logo](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 ![Datawrapper Logo](https://img.shields.io/badge/-Datawrapper-0084B4?style=flat-square&logo=datawrapper&logoColor=white)
 ![Flourish](https://img.shields.io/badge/-Flourish-1db954?style=flat-square&logo=flourish&logoColor=white)
-
-![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=command-line&logoColor=white)
-![Git Logo](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-![Adobe Logo](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
-![Figma Logo](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
