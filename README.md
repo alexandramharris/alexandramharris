@@ -2,8 +2,8 @@
 
 Currently, I'm the graphics reporter for the Times Union in Albany, New York.
 
-### 📫 How to reach me
-- Email: harrisalexmarie@gmail.com
+### 📫 Feel free to get in touch
+Email: harrisalexmarie@gmail.com
 
 ### 🚀 What I work with
 
