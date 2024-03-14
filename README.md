@@ -1,6 +1,6 @@
 ## Hi, I'm Alexandra.
 
-Currently, I'm the graphics reporter for the Times Union in Albany, NY.
+Currently, I'm the graphics reporter for the Times Union in Albany, New York.
 
 ### 📫 How to reach me
 - Email: harrisalexmarie@gmail.com
