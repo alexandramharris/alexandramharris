@@ -7,7 +7,7 @@ Currently, I'm the graphics reporter for the Times Union in Albany, New York.
 
 ### 🚀 What I work with
 
-![HTML Logo](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS Logo](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![HTML Logo](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS Logo](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript Logo](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![React Logo](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js Logo](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
