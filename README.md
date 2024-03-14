@@ -1,6 +1,6 @@
 ## Hi, I'm Alexandra.
 
-I'm the graphics reporter for the Times Union in Albany, NY.
+Currently, I'm the graphics reporter for the Times Union in Albany, NY.
 
 ### 📫 How to reach me
 - Email: harrisalexmarie@gmail.com
@@ -27,10 +27,8 @@ I'm the graphics reporter for the Times Union in Albany, NY.
 ![Datawrapper Logo](https://img.shields.io/badge/-Datawrapper-0084B4?style=flat-square&logo=datawrapper&logoColor=white)
 ![Flourish](https://img.shields.io/badge/-Flourish-1db954?style=flat-square&logo=flourish&logoColor=white)
 
-![Command Line Logo](https://img.shields.io/badge/-Command_Line-000000?style=flat-square&logo=command-line&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-000000?style=flat-square&logo=command-line&logoColor=white)
 ![Git Logo](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ![Adobe Logo](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![Figma Logo](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
