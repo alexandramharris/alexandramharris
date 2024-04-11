@@ -11,12 +11,15 @@ Email: harrisalexmarie@gmail.com
 ![JavaScript Logo](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
 ![React Logo](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js Logo](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express Logo](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 
 ![R Logo](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PostgreSQL Logo](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 ![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter Notebook Logo](https://img.shields.io/badge/-Jupyter-007ACC?style=flat-square&logo=jupyter&logoColor=white)
 ![Excel Logo](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Google Sheets Logo](https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat-square&logo=google-sheets&logoColor=white)
 
 ![QGIS Logo](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Mapbox Logo](https://img.shields.io/badge/-Mapbox-000?style=flat-square&logo=mapbox&logoColor=white)
