@@ -1,6 +1,6 @@
 ## Hi, I'm Alexandra.
 
-Currently, I'm the graphics reporter for the Times Union in Albany, New York.
+I'm a newsroom engineer for Hearst Newspapers in Albany, New York.
 
 ### 📫 Feel free to get in touch
 Email: harrisalexmarie@gmail.com
