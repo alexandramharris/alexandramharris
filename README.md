@@ -18,8 +18,6 @@ Email: harrisalexmarie@gmail.com
 ![SQL Logo](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
 ![Python Logo](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter Notebook Logo](https://img.shields.io/badge/-Jupyter-007ACC?style=flat-square&logo=jupyter&logoColor=white)
-![Excel Logo](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-![Google Sheets Logo](https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat-square&logo=google-sheets&logoColor=white)
 
 ![QGIS Logo](https://img.shields.io/badge/-QGIS-589632?style=flat-square&logo=qgis&logoColor=white)
 ![Mapbox Logo](https://img.shields.io/badge/-Mapbox-000?style=flat-square&logo=mapbox&logoColor=white)
@@ -34,3 +32,6 @@ Email: harrisalexmarie@gmail.com
 ![D3.js Logo](https://img.shields.io/badge/-D3.js-F9A03C?style=flat-square&logo=d3.js&logoColor=white)
 ![Datawrapper Logo](https://img.shields.io/badge/-Datawrapper-0084B4?style=flat-square&logo=datawrapper&logoColor=white)
 ![Flourish](https://img.shields.io/badge/-Flourish-1db954?style=flat-square&logo=flourish&logoColor=white)
+
+![Excel Logo](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![Google Sheets Logo](https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat-square&logo=google-sheets&logoColor=white)
