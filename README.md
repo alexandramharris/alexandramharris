@@ -1,6 +1,6 @@
 ## Hi, I'm Alexandra.
 
-I'm a newsroom engineer for Hearst Newspapers in Albany, New York.
+I'm the Newsroom Developer for Spotlight PA.
 
 ### 📫 Feel free to get in touch
 Email: harrisalexmarie@gmail.com
